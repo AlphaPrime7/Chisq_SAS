@@ -1,0 +1,5 @@
+﻿Color_code,Color_code_num,Group,group_code,Freq
+Orange,1,class,1,440
+Orange,1,mybag,2,2
+Not_orange,0,class,1,1581
+Not_orange,0,mybag,2,54

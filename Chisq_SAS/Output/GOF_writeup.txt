@@ -1,0 +1,3 @@
+Null-Equal: Proportions are equal
+Null-Unequal: Proportions are equal to pre-determined proportions (Usually based on the population like a batch for M&M Mars company)
+χ2(5) = 22.154 (p < .001) hence a statistically significant difference between observed proportions and expected proportions. The null hypothesis is rejected.

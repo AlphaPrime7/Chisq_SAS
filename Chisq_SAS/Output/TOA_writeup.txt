@@ -1,0 +1,8 @@
+Null: proportions for var1 are equal to proportions for var2 (odds ratio is 1; column 1 == column 2). proportion of patients that spend AA or BA is equal for NFS vs LFS.
+Null: var1 and var2 are independent.
+
+writeup:
+p < 0.001 means there is association between var and outcome.
+
+
+
